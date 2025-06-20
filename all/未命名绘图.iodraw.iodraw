@@ -10,7 +10,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-4" value="高斯模糊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-106" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-5" value="灰度化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-5" value="灰度化&lt;div&gt;对比增强&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-106" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-6" value="二值化&lt;div&gt;（多级阈值处理）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
