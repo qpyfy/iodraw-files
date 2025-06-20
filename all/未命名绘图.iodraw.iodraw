@@ -13,7 +13,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-5" value="灰度化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-6" value="二值化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-1" target="jHdAefUDESWQ0zyPJjnQ-4">
@@ -32,6 +32,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="450" as="sourcePoint" />
             <mxPoint x="300" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-4" target="jHdAefUDESWQ0zyPJjnQ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="280" as="sourcePoint" />
+            <mxPoint x="560" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
