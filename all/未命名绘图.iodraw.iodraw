@@ -154,11 +154,22 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-43" target="jHdAefUDESWQ0zyPJjnQ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-43" value="计算瞳孔对应的光学轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-43" value="通过角膜计算对应的光学轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-44" value="通过guan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-44" target="jHdAefUDESWQ0zyPJjnQ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-49" value="瞳孔视觉坐标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jHdAefUDESWQ0zyPJjnQ-48">
+          <mxGeometry x="-0.225" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-44" value="带入瞳孔信息&lt;div&gt;求出视觉轴&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-150" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-47" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
