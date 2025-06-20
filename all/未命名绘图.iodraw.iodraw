@@ -69,7 +69,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-14" value="寻找图片最黑区域&lt;div&gt;（dark point)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-16" value="搜索窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
