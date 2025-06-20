@@ -143,7 +143,12 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-38" value="提取角膜信息&lt;div&gt;（通过校准对图像二值化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-39" value="计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-39" value="计算角膜中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
