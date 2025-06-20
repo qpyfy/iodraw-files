@@ -83,7 +83,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-19" value="边缘集合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-22" value="根据椭圆角度，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -95,7 +95,7 @@
             <mxPoint x="500" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-19">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-19" target="jHdAefUDESWQ0zyPJjnQ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="400" as="sourcePoint" />
             <mxPoint x="660" y="350" as="targetPoint" />
