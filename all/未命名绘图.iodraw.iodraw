@@ -83,7 +83,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-19" value="边缘集合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-22" value="根据椭圆角度，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-22" value="角度特征的优化筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
