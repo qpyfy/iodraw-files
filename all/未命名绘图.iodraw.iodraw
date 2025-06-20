@@ -7,7 +7,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-1" value="用户图像输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-4" value="高斯模糊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
