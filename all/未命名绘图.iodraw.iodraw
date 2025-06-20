@@ -61,7 +61,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-14" target="jHdAefUDESWQ0zyPJjnQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jHdAefUDESWQ0zyPJjnQ-17">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-18" value="提取兴趣roi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jHdAefUDESWQ0zyPJjnQ-17">
           <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
