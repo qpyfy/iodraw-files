@@ -107,6 +107,9 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-26" value="耗时最久需优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-28" target="jHdAefUDESWQ0zyPJjnQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-28" value="结果边缘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -121,6 +124,9 @@
             <mxPoint x="670" y="570" as="sourcePoint" />
             <mxPoint x="720" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
