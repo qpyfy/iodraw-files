@@ -16,7 +16,7 @@
         <mxCell id="6owIAhI81bCyZI3GPzXR-2" value="图像输入&lt;div&gt;二值化数值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6owIAhI81bCyZI3GPzXR-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6owIAhI81bCyZI3GPzXR-4" value="灰度化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6owIAhI81bCyZI3GPzXR-6" value="任务：提取瞳孔上反射点，&lt;div&gt;反射点特点：&lt;span style=&quot;background-color: initial;&quot;&gt;纯白RGB在250 - 255左右，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;圆形，位置基本不动，有且仅有一个&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
