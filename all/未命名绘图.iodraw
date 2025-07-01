@@ -45,8 +45,8 @@
         <mxCell id="6owIAhI81bCyZI3GPzXR-13" value="椭圆拟合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6owIAhI81bCyZI3GPzXR-15" value="获取拟合的椭圆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="6owIAhI81bCyZI3GPzXR-15" value="根据拟合的椭圆的灰度值进行筛选" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6owIAhI81bCyZI3GPzXR-18" value="高斯模糊（去除其他细小的反光点）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
