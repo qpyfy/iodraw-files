@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6owIAhI81bCyZI3GPzXR-11" value="提取轮廓" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6owIAhI81bCyZI3GPzXR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6owIAhI81bCyZI3GPzXR-13" target="6owIAhI81bCyZI3GPzXR-15">
           <mxGeometry relative="1" as="geometry" />
