@@ -7,7 +7,10 @@
         <mxCell id="6owIAhI81bCyZI3GPzXR-1" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6owIAhI81bCyZI3GPzXR-2" value="图像输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6owIAhI81bCyZI3GPzXR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6owIAhI81bCyZI3GPzXR-2" target="6owIAhI81bCyZI3GPzXR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6owIAhI81bCyZI3GPzXR-2" value="图像输入&lt;div&gt;二值化数值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
