@@ -57,7 +57,7 @@
         <mxCell id="6owIAhI81bCyZI3GPzXR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6owIAhI81bCyZI3GPzXR-18" target="6owIAhI81bCyZI3GPzXR-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6owIAhI81bCyZI3GPzXR-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6owIAhI81bCyZI3GPzXR-22" value="输出角膜反射点坐标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
