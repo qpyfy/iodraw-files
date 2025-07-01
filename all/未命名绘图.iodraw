@@ -31,8 +31,14 @@
         <mxCell id="6owIAhI81bCyZI3GPzXR-7" value="高斯模糊（去除眼眶附近的反光点）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6owIAhI81bCyZI3GPzXR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6owIAhI81bCyZI3GPzXR-9" target="6owIAhI81bCyZI3GPzXR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6owIAhI81bCyZI3GPzXR-9" value="阈值分割（提取出纯白的部分）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6owIAhI81bCyZI3GPzXR-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
