@@ -85,7 +85,7 @@
           <mxGeometry x="684" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-13" value="显示窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-16" target="be6lUTRfJ5EehoKlfMcB-2">
           <mxGeometry relative="1" as="geometry" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="配置类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
