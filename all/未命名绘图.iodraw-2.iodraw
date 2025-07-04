@@ -61,6 +61,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-8" target="be6lUTRfJ5EehoKlfMcB-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-8" value="后台识别进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="140" width="120" height="60" as="geometry" />
         </mxCell>
