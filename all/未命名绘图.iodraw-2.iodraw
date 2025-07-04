@@ -120,6 +120,9 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="检测配置类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-29" target="be6lUTRfJ5EehoKlfMcB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-29" value="实时视图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="250" width="120" height="60" as="geometry" />
         </mxCell>
