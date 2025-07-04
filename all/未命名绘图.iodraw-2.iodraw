@@ -123,8 +123,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-30" target="be6lUTRfJ5EehoKlfMcB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-35" value="校准开始" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="be6lUTRfJ5EehoKlfMcB-34">
+          <mxGeometry x="-0.2154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-30" value="校准窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="224" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-31" value="校准配置类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="160" width="120" height="60" as="geometry" />
