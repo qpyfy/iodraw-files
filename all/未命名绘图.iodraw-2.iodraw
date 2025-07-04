@@ -150,6 +150,11 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-30" value="校准窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-31" value="校准配置类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="150" width="120" height="60" as="geometry" />
         </mxCell>
