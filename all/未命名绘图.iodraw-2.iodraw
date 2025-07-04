@@ -68,7 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-16" value="停止追踪按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
