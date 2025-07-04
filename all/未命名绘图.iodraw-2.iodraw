@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-1" target="be6lUTRfJ5EehoKlfMcB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="be6lUTRfJ5EehoKlfMcB-9">
+          <mxGeometry x="-0.1692" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-1" value="主窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,7 +37,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-3" value="开始追踪按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-8" value="后台识别进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
