@@ -156,6 +156,9 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-40" value="后台校准进程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="684" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-43" value="校准数据类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
