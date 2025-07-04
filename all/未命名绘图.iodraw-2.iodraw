@@ -8,10 +8,15 @@
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-2" value="检测窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-3" target="be6lUTRfJ5EehoKlfMcB-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-5" value="调用开始信号发射函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="be6lUTRfJ5EehoKlfMcB-4">
+          <mxGeometry x="-0.0471" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-3" value="开始追踪按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="120" height="60" as="geometry" />
