@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wKkgqIQiOPd6dYyc6z8B-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wKkgqIQiOPd6dYyc6z8B-1" target="wKkgqIQiOPd6dYyc6z8B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wKkgqIQiOPd6dYyc6z8B-1" value="程序入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wKkgqIQiOPd6dYyc6z8B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wKkgqIQiOPd6dYyc6z8B-2" target="wKkgqIQiOPd6dYyc6z8B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wKkgqIQiOPd6dYyc6z8B-2" value="UI创建" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wKkgqIQiOPd6dYyc6z8B-4" value="配置文件加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
