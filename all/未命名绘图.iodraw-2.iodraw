@@ -31,6 +31,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="be6lUTRfJ5EehoKlfMcB-2" target="be6lUTRfJ5EehoKlfMcB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-24" value="配置修改数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="be6lUTRfJ5EehoKlfMcB-23">
+          <mxGeometry x="-0.05" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-2" value="检测窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -81,7 +89,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-19" value="配置相关选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="配置类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
