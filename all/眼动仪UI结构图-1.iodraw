@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XmWR7tEHqV9uW7JV3nfP">
-    <mxGraphModel dx="3434" dy="2689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +317,7 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-38" value="&lt;font color=&quot;#ff3333&quot;&gt;视线窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hYnu3vOqv2p_LgOVMWd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-39" target="be6lUTRfJ5EehoKlfMcB-29">
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-39" target="be6lUTRfJ5EehoKlfMcB-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-41" value="选择加载图像和对应眼动数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-40">
@@ -328,7 +328,7 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-39" value="&lt;font color=&quot;#ff3333&quot;&gt;主窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hYnu3vOqv2p_LgOVMWd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-38" target="9hYnu3vOqv2p_LgOVMWd-39">
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-38" target="9hYnu3vOqv2p_LgOVMWd-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-43" value="图像路径和眼动数据路径&lt;div&gt;显示信号发射&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-42">
@@ -361,7 +361,7 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-50" value="加载图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hYnu3vOqv2p_LgOVMWd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-54" target="9hYnu3vOqv2p_LgOVMWd-38">
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-54" target="9hYnu3vOqv2p_LgOVMWd-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-60" y="-350" />
