@@ -197,8 +197,11 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-43" value="&lt;font color=&quot;#00cc00&quot;&gt;校准数据类&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-1" target="be6lUTRfJ5EehoKlfMcB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-1" value="校准配置相关选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="224" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
