@@ -150,7 +150,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-30" value="&lt;font color=&quot;#ff3333&quot;&gt;校准窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="be6lUTRfJ5EehoKlfMcB-31" target="be6lUTRfJ5EehoKlfMcB-1" edge="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="be6lUTRfJ5EehoKlfMcB-31" target="be6lUTRfJ5EehoKlfMcB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="360" as="targetPoint" />
             <Array as="points">
