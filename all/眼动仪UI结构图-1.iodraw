@@ -200,6 +200,11 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-1" target="be6lUTRfJ5EehoKlfMcB-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-3" value="配置修改数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-2">
+          <mxGeometry x="-0.1231" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-1" value="校准配置相关选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
