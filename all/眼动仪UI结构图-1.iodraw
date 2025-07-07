@@ -271,9 +271,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="985" y="930" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="984" y="970" />
-              <mxPoint x="-225" y="970" />
+              <mxPoint x="984" y="860" />
+              <mxPoint x="-225" y="860" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-66" value="显示对应播放源处理图像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-65">
+          <mxGeometry x="0.1274" y="-7" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-12" value="&lt;font color=&quot;#ff3333&quot;&gt;主窗口&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
