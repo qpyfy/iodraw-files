@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="be6lUTRfJ5EehoKlfMcB-1" target="be6lUTRfJ5EehoKlfMcB-8" edge="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="be6lUTRfJ5EehoKlfMcB-1" target="be6lUTRfJ5EehoKlfMcB-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-10" value="创建/销毁进程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="be6lUTRfJ5EehoKlfMcB-9" vertex="1" connectable="0">
