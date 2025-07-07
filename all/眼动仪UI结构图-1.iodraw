@@ -292,7 +292,10 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-21" value="实时图片录制开始/停止按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hYnu3vOqv2p_LgOVMWd-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-25" target="9hYnu3vOqv2p_LgOVMWd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-25" value="播放视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
