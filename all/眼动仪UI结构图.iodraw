@@ -128,7 +128,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="检测配置类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="474" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-29" value="实时视图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-29" value="&lt;font color=&quot;#ff3333&quot;&gt;实时视图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="be6lUTRfJ5EehoKlfMcB-30" target="be6lUTRfJ5EehoKlfMcB-31" edge="1">
