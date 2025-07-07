@@ -125,7 +125,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-19" value="配置相关选项" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="检测配置类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-22" value="&lt;font color=&quot;#00cc00&quot;&gt;检测配置类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="474" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-29" value="&lt;font color=&quot;#ff3333&quot;&gt;实时视图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -175,7 +175,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-40" value="后台校准进程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-40" value="&lt;font color=&quot;#0000ff&quot;&gt;后台校准进程&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="684" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="be6lUTRfJ5EehoKlfMcB-43" target="be6lUTRfJ5EehoKlfMcB-30" edge="1">
