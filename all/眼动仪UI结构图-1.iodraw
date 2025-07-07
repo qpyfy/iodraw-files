@@ -225,7 +225,17 @@
           <mxGeometry x="400" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-7" target="be6lUTRfJ5EehoKlfMcB-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="70" />
+              <mxPoint x="254" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-9" value="校准停止信号发射函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-8">
+          <mxGeometry x="-0.1769" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-7" value="校准/校准测试/随机测试开始按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-40" width="120" height="60" as="geometry" />
