@@ -380,6 +380,14 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-57" value="&lt;font color=&quot;#ff3333&quot;&gt;设置窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-58" target="9hYnu3vOqv2p_LgOVMWd-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-60" value="相关配置修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-59">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-58" value="相关配置选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
