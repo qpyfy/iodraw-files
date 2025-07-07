@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-1" value="&lt;font color=&quot;#ff3333&quot;&gt;主窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225.5" y="310" width="117" height="60" as="geometry" />
+          <mxGeometry x="110" y="310" width="232.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#00FF00;" parent="1" source="be6lUTRfJ5EehoKlfMcB-2" target="be6lUTRfJ5EehoKlfMcB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
