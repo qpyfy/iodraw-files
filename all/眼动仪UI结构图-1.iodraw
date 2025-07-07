@@ -377,6 +377,14 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-54" value="加载眼动数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-57" target="9hYnu3vOqv2p_LgOVMWd-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-63" value="相关配置修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-62">
+          <mxGeometry x="0.0255" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-57" value="&lt;font color=&quot;#ff3333&quot;&gt;设置窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
