@@ -248,6 +248,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-17" value="视频录制开始/停止信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-15">
+          <mxGeometry x="0.0667" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-10" value="&lt;font color=&quot;#ff3333&quot;&gt;录制窗口&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -259,6 +264,9 @@
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-13" value="视频录制开始/停止按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
