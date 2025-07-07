@@ -240,19 +240,6 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-7" value="校准/校准测试/随机测试开始按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hYnu3vOqv2p_LgOVMWd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-10" target="9hYnu3vOqv2p_LgOVMWd-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="335" />
-              <mxPoint x="1270" y="335" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9hYnu3vOqv2p_LgOVMWd-17" value="视频录制开始/停止信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-15">
-          <mxGeometry x="0.0667" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-10" target="9hYnu3vOqv2p_LgOVMWd-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -263,6 +250,11 @@
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-10" target="9hYnu3vOqv2p_LgOVMWd-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-35" value="开始停止信号（传入对应的播放源）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-28">
+          <mxGeometry x="0.2133" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-10" value="&lt;font color=&quot;#ff3333&quot;&gt;录制窗口&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="320" width="120" height="60" as="geometry" />
