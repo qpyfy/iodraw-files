@@ -257,7 +257,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-10" value="&lt;font color=&quot;#ff3333&quot;&gt;录制窗口&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="1194" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-12" target="be6lUTRfJ5EehoKlfMcB-8">
           <mxGeometry relative="1" as="geometry" />
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-12" value="&lt;font color=&quot;#ff3333&quot;&gt;主窗口&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="924" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-13" target="9hYnu3vOqv2p_LgOVMWd-10">
           <mxGeometry relative="1" as="geometry" />
@@ -279,10 +279,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-13" value="视频录制开始/停止按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-18" value="&lt;font color=&quot;#00ff00&quot;&gt;录制配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="1194" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-21" target="9hYnu3vOqv2p_LgOVMWd-10">
           <mxGeometry relative="1" as="geometry" />
@@ -293,7 +293,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-21" value="实时图片录制开始/停止按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-25" target="9hYnu3vOqv2p_LgOVMWd-10">
           <mxGeometry relative="1" as="geometry" />
@@ -304,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-25" value="播放视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-38" target="9hYnu3vOqv2p_LgOVMWd-44">
           <mxGeometry relative="1" as="geometry" />
@@ -403,7 +403,7 @@
           <mxGeometry x="824" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-64" value="&lt;font color=&quot;#ff3333&quot;&gt;帮助窗口&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="225.5" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
