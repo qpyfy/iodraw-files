@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-13" value="视频录制开始/停止按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1650" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-18" value="录制配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="180" width="120" height="60" as="geometry" />
@@ -290,7 +290,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-21" value="实时图片录制开始/停止按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1650" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
