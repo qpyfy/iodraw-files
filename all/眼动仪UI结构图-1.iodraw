@@ -402,6 +402,9 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-61" value="&lt;font color=&quot;#00cc00&quot;&gt;全局配置类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="824" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-64" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
