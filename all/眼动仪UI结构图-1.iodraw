@@ -66,7 +66,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-2" value="&lt;font color=&quot;#ff3333&quot;&gt;检测窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="be6lUTRfJ5EehoKlfMcB-3" target="be6lUTRfJ5EehoKlfMcB-2" edge="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00FF00;" parent="1" source="be6lUTRfJ5EehoKlfMcB-3" target="be6lUTRfJ5EehoKlfMcB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-5" value="调用开始信号发射函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="be6lUTRfJ5EehoKlfMcB-4" vertex="1" connectable="0">
@@ -103,7 +103,7 @@
         <mxCell id="be6lUTRfJ5EehoKlfMcB-13" value="&lt;font color=&quot;#ff3333&quot;&gt;显示窗口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="be6lUTRfJ5EehoKlfMcB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="be6lUTRfJ5EehoKlfMcB-16" target="be6lUTRfJ5EehoKlfMcB-2" edge="1">
+        <mxCell id="be6lUTRfJ5EehoKlfMcB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF3333;" parent="1" source="be6lUTRfJ5EehoKlfMcB-16" target="be6lUTRfJ5EehoKlfMcB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="be6lUTRfJ5EehoKlfMcB-18" value="调用停止信号发生函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="be6lUTRfJ5EehoKlfMcB-17" vertex="1" connectable="0">
