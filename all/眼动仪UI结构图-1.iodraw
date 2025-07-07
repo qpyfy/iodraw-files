@@ -353,6 +353,11 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-50" target="9hYnu3vOqv2p_LgOVMWd-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-53" value="图片路径和显示信号发射" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-52">
+          <mxGeometry x="-0.364" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-50" value="加载图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
