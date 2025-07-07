@@ -208,6 +208,19 @@
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-1" value="校准配置相关选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hYnu3vOqv2p_LgOVMWd-4" target="be6lUTRfJ5EehoKlfMcB-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="70" />
+              <mxPoint x="314" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hYnu3vOqv2p_LgOVMWd-6" value="校准开始信号发生函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9hYnu3vOqv2p_LgOVMWd-5">
+          <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hYnu3vOqv2p_LgOVMWd-4" value="校准/校准测试/随机测试开始按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
