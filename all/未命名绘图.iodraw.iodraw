@@ -25,7 +25,7 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-43" target="jHdAefUDESWQ0zyPJjnQ-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-43" value="通过角膜计算对应的光学轴" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-43" value="通过角膜和瞳孔中心计算对应的光学轴" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-44" target="jHdAefUDESWQ0zyPJjnQ-47" edge="1">
