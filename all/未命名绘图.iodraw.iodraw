@@ -50,17 +50,20 @@
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-51" value="用户结果输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="830" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fqqvi1Ej3fNY7-inn_TA-1" target="Fqqvi1Ej3fNY7-inn_TA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-1" value="角膜相机图像坐标系转世界坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fqqvi1Ej3fNY7-inn_TA-3" target="Fqqvi1Ej3fNY7-inn_TA-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-3" value="瞳孔中心图像坐标系转世界坐标系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fqqvi1Ej3fNY7-inn_TA-1" target="Fqqvi1Ej3fNY7-inn_TA-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
