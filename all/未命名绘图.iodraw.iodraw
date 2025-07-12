@@ -4,41 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-28" target="jHdAefUDESWQ0zyPJjnQ-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-28" value="结果边缘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jHdAefUDESWQ0zyPJjnQ-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454" y="483" as="sourcePoint" />
-            <mxPoint x="500" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jHdAefUDESWQ0zyPJjnQ-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="480" as="sourcePoint" />
-            <mxPoint x="720" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-31" target="jHdAefUDESWQ0zyPJjnQ-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-31" value="椭圆拟合与质量评估" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-35" target="jHdAefUDESWQ0zyPJjnQ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-35" value="瞳孔椭圆信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-38" target="jHdAefUDESWQ0zyPJjnQ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-38" value="提取角膜信息&lt;div&gt;（通过校准对图像二值化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-39" target="jHdAefUDESWQ0zyPJjnQ-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -46,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-39" value="计算角膜中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-43" target="jHdAefUDESWQ0zyPJjnQ-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
