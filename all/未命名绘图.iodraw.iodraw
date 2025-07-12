@@ -19,7 +19,7 @@
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHdAefUDESWQ0zyPJjnQ-39" target="jHdAefUDESWQ0zyPJjnQ-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHdAefUDESWQ0zyPJjnQ-39" value="计算角膜中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jHdAefUDESWQ0zyPJjnQ-39" value="计算角膜中心视觉坐标" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHdAefUDESWQ0zyPJjnQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHdAefUDESWQ0zyPJjnQ-43" target="jHdAefUDESWQ0zyPJjnQ-44" edge="1">
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-6" value="角膜反射点和LED灯向量归一化*瞳孔半径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fqqvi1Ej3fNY7-inn_TA-12" target="jHdAefUDESWQ0zyPJjnQ-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-12" value="通过视觉轴延长与屏幕相交求出视觉坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="820" width="120" height="60" as="geometry" />
