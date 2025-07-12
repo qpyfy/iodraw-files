@@ -59,7 +59,7 @@
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-3" value="瞳孔中心图像坐标系转世界坐标系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-6" value="两坐标向量归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-6" value="角膜反射点和LED灯向量归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
