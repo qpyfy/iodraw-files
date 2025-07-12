@@ -56,6 +56,12 @@
         <mxCell id="Fqqvi1Ej3fNY7-inn_TA-3" value="瞳孔中心图像坐标系转世界坐标系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqqvi1Ej3fNY7-inn_TA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fqqvi1Ej3fNY7-inn_TA-1" target="Fqqvi1Ej3fNY7-inn_TA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
